@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Revelation Day Kennels</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Revelation Day Kennels</h1>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#mission">Our Mission</a></li>
+          <li><a href="#programs">Programs</a></li>
+          <li><a href="#events">Events</a></li>
+          <li><a href="#donate">Donate</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section id="home">
+    <div class="container">
+      <h2>Welcome to Revelation Day Kennels</h2>
+      <p>
+        We provide protection and apprehension dogs to missionaries overseas and police departments stateside.
+      </p>
+      <!-- Replace placeholder.jpg with your actual image file -->
+      <img src="placeholder.jpg" alt="Kennel Dogs" width="600" />
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>
+        Revelation Day Kennels is a nonprofit organization dedicated to training and donating protection dogs to support missionary safety and law enforcement.
+      </p>
+    </div>
+  </section>
+
+  <section id="mission">
+    <div class="container">
+      <h2>Our Mission</h2>
+      <p>
+        Our mission is to equip missionaries and underserved police departments with specially trained dogs to enhance protection and apprehension capabilities.
+      </p>
+    </div>
+  </section>
+
+  <section id="programs">
+    <div class="container">
+      <h2>Programs</h2>
+      <h3>International Outreach</h3>
+      <p>
+        We partner with missionary groups overseas, including in the Philippines, to provide trained dogs for protection in regions with restrictions on weapon ownership.
+      </p>
+      <h3>Stateside Outreach</h3>
+      <p>
+        We work with police departments without active K9 units to enhance their law enforcement capabilities.
+      </p>
+    </div>
+  </section>
+
+  <section id="events">
+    <div class="container">
+      <h2>Events & News</h2>
+      <p>
+        Stay tuned for updates on our demonstrations, training sessions, and news about our impact.
+      </p>
+    </div>
+  </section>
+
+  <section id="donate">
+    <div class="container">
+      <h2>Donate</h2>
+      <p>
+        Your contributions help fund our operations and ensure safety for those in need. Donate now to make a difference!
+      </p>
+      <button onclick="window.location.href='mailto:info@revelationdaykennels.org'">
+        Donate via Email
+      </button>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>Email: info@revelationdaykennels.org</p>
+      <p>Phone: (555) 123-4567</p>
+      <p>Address: [Your Address Here]</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Revelation Day Kennels. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
